@@ -1,2 +1,1 @@
-# awesome-reinforcement-learning
-Awesome Reinforcement Learning (RL)
+# Awesome Reinforcement Learning (RL)
