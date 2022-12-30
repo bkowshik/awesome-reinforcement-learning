@@ -1,6 +1,12 @@
 # Awesome Reinforcement Learning (RL)
 
 
+## People
+- [Richard S. Sutton](http://incompleteideas.net)
+- [John Langford](https://www.microsoft.com/en-us/research/people/jcl/)
+
+
+
 ## Infrastructure
 
 #### Blog posts
