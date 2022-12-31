@@ -1,4 +1,4 @@
-# Awesome Reinforcement Learning (RL)
+# Awesome Reinforcement Learning (RL) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
 ## People
