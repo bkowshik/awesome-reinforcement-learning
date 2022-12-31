@@ -8,6 +8,8 @@
 
 
 ## Libraries
+
+#### Bandits
 - [VowpalWabbit/vowpal_wabbit](https://github.com/VowpalWabbit/vowpal_wabbit)
 - [david-cortes/contextualbandits](https://github.com/david-cortes/contextualbandits)
 
