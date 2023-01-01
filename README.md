@@ -15,6 +15,10 @@
 - [david-cortes/contextualbandits](https://github.com/david-cortes/contextualbandits)
 
 
+## MOOCs
+- [CS 598 Statistical Reinforcement Learning (F20)](http://nanjiang.cs.illinois.edu/cs598/)
+
+
 ## Infrastructure
 
 #### Blog posts
