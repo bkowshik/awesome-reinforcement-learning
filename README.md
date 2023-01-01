@@ -25,3 +25,6 @@
 - [Netflix: Infrastructure for Contextual Bandits and Reinforcement Learning](https://netflixtechblog.com/ml-platform-meetup-infra-for-contextual-bandits-and-reinforcement-learning-4a90305948ef)
 
 
+
+## Conferences
+- May, 2023 [Reincarnating RL: Inaugural workshop at ICLR 2023](https://reincarnating-rl.github.io)
