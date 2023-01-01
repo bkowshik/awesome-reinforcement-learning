@@ -14,6 +14,10 @@
 - [VowpalWabbit/vowpal_wabbit](https://github.com/VowpalWabbit/vowpal_wabbit)
 - [david-cortes/contextualbandits](https://github.com/david-cortes/contextualbandits)
 
+#### Evaluation
+- [rliable: Python library for reliable evaluation](https://github.com/google-research/rliable)
+
+
 
 ## MOOCs
 - [CS 598 Statistical Reinforcement Learning (F20)](http://nanjiang.cs.illinois.edu/cs598/)
