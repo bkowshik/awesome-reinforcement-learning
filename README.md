@@ -32,3 +32,4 @@
 
 ## Conferences
 - May, 2023 [Reincarnating RL: Inaugural workshop at ICLR 2023](https://reincarnating-rl.github.io)
+- June, 2022 [RLDM: The Multi-disciplinary Conference on Reinforcement Learning and Decision Making](https://rldm.org)
