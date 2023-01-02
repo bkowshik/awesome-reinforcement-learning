@@ -5,6 +5,9 @@
 - [Richard S. Sutton](http://incompleteideas.net)
 - [John Langford](https://www.microsoft.com/en-us/research/people/jcl/)
 
+#### Organizations
+- [Farama foundation: Develop and maintain open source reinforcement learning tools.](https://farama.org)
+
 ## Books
 - [Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto](http://www.incompleteideas.net/book/the-book-2nd.html)
 
